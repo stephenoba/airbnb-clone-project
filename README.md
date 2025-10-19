@@ -11,6 +11,8 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 5.  **Review System**: Allow users to leave reviews and ratings for properties.
 6.  **Data Optimization**: Ensure efficient data retrieval and storage through database optimizations.
 
+### **Database Design Overview
+
 ### 🛠️ **Features Overview**
 
 #### 1\. **API Documentation**
